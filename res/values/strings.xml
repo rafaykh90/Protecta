@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Protecta</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_register">MainActivity</string>
+    <string name="title_activity_signup">MainActivity</string>
+    <string name="title_activity_dummy">MainActivity</string>
+    <string name="title_activity_forgot_pass">MainActivity</string>
+    <string name="title_activity_setting">SettingActivity</string>
+
+</resources>
